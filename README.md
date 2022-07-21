@@ -4,7 +4,6 @@ This is my personal [dmenu](https://tools.suckless.org/dmenu/) fork with some pa
 
 ## Features
 
-+ Reads colors from `~/.Xresources`
 + `-F` to enable fuzzy-matching
 + `-P` for password mode to hide user input
 
@@ -27,4 +26,3 @@ This build of dmenu does not block color emoji so you must install `libxft-bgra`
 
 + [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch/)
 + [password](https://tools.suckless.org/dmenu/patches/password/)
-+ [xresources](http://tools.suckless.org/dmenu/patches/xresources/)
